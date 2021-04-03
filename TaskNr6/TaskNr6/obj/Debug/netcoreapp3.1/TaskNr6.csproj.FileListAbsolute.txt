@@ -1,0 +1,13 @@
+C:\Users\dawid\source\repos\TaskNr6\TaskNr6\bin\Debug\netcoreapp3.1\TaskNr6.exe
+C:\Users\dawid\source\repos\TaskNr6\TaskNr6\bin\Debug\netcoreapp3.1\TaskNr6.deps.json
+C:\Users\dawid\source\repos\TaskNr6\TaskNr6\bin\Debug\netcoreapp3.1\TaskNr6.runtimeconfig.json
+C:\Users\dawid\source\repos\TaskNr6\TaskNr6\bin\Debug\netcoreapp3.1\TaskNr6.runtimeconfig.dev.json
+C:\Users\dawid\source\repos\TaskNr6\TaskNr6\bin\Debug\netcoreapp3.1\TaskNr6.dll
+C:\Users\dawid\source\repos\TaskNr6\TaskNr6\bin\Debug\netcoreapp3.1\TaskNr6.pdb
+C:\Users\dawid\source\repos\TaskNr6\TaskNr6\obj\Debug\netcoreapp3.1\TaskNr6.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\TaskNr6\TaskNr6\obj\Debug\netcoreapp3.1\TaskNr6.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\TaskNr6\TaskNr6\obj\Debug\netcoreapp3.1\TaskNr6.AssemblyInfo.cs
+C:\Users\dawid\source\repos\TaskNr6\TaskNr6\obj\Debug\netcoreapp3.1\TaskNr6.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\TaskNr6\TaskNr6\obj\Debug\netcoreapp3.1\TaskNr6.dll
+C:\Users\dawid\source\repos\TaskNr6\TaskNr6\obj\Debug\netcoreapp3.1\TaskNr6.pdb
+C:\Users\dawid\source\repos\TaskNr6\TaskNr6\obj\Debug\netcoreapp3.1\TaskNr6.genruntimeconfig.cache
